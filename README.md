@@ -26,7 +26,8 @@ pip install -r requirements.txt
 ## 🎬 Running the Animations  
 Choose any script from the `animations/` folder and run it:  
 ```bash
-python animations/turtle_art.py
+python animation.py
+python example.py
 python animations/vpython_flower.py
 ```
 

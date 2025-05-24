@@ -1,4 +1,4 @@
-﻿# Python-Animation...
+﻿# Python-Animation
 
 # Python Animation Collection 🎨✨  
 Welcome to **Python Animation Collection**, a repository featuring unique and creative animations built using Python! 🐍  

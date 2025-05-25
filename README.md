@@ -21,6 +21,7 @@ To get started, clone this repository and install the necessary dependencies:
 git clone https://github.com/ashqrRhmn101/Python-Animation.git
 cd Python-Animation
 pip install -r requirements.txt
+
 ```
 
 ## 🎬 Running the Animations  
@@ -29,6 +30,7 @@ Choose any script from the `animations/` folder and run it:
 python animation.py
 python example.py
 python animations/vpython_flower.py
+
 ```
 
 ## ✨ Contribution  
